@@ -1,2 +1,2 @@
 # My-portfolio-website
-This is my portfolio website all information includeed this..
+This is my portfolio website all information included this..
